@@ -12,7 +12,7 @@ import java.util.*;
 
 public class Scheduling {
 
-    private static int processnum = 5; //количество процессов
+    private static int processnum = 0;
     private static int run_time_average = 1000;
     private static int run_time_stddev = 100;
     private static int runtime = 1000;
